@@ -1,2 +1,2 @@
-# just-a-beginner-test
+# just-a-beginners-test
 I'm doing courses :)
