@@ -1,2 +1,2 @@
-# just-a-novate-test
-I'm doing a course
+# just-a-beginner-test
+I'm doing courses :)
